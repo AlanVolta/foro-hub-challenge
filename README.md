@@ -1,6 +1,6 @@
 # 📚 ForoHub - Infraestructura de Comunicación Técnica
 
-¡Bienvenido a **ForoHub**! Este proyecto representa la culminación de un desafío técnico de alto nivel: la creación de una **API REST** robusta que simula el ecosistema de un foro de discusión profesional. No es solo un sistema de mensajes; es una plataforma diseñada bajo los principios de la arquitectura **Stateless**, implementando seguridad avanzada y una gestión de datos relacional optimizada.
+¡Bienvenido a **ForoHub**! No es solo un sistema de mensajes; es una plataforma diseñada bajo los principios de la arquitectura **Stateless**, implementando seguridad avanzada y una gestión de datos relacional optimizada.
 
 ---
 
@@ -86,7 +86,7 @@ forohub/
 Abre tu terminal y ejecuta el siguiente comando:
 
 ```bash
-git clone https://github.com/Natalia-Schwindt/challenge-foro-hub.git
+git clone https://github.com/AlanVolta/foro-hub-challenge.git
 ```
 
 ### 2. Configurar las variables de entorno
